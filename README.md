@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I am a Computer Science student at the University of Camerino, passionate about software development, algorithms and new technologies. 🚀
+I am a Computer Science for Digital Communication student at the University of Camerino, passionate about software development, algorithms and new technologies. 🚀
 
 🔹 I enjoy working on programming projects, exploring new languages and experimenting with innovative frameworks and tools.
 
