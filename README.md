@@ -3,7 +3,7 @@ I am a Computer Science for Digital Communication student at the University of C
 
 🔹 I enjoy working on programming projects, exploring new languages and experimenting with innovative frameworks and tools.
 
-🔹 I have most experience with Python, Java and C#.
+🔹 I have most experience with Java and C#.
 
 🔹 I am interested in web development and artificial intelligence.
 
